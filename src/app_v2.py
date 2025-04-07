@@ -1,6 +1,5 @@
 import streamlit as st
 import json
-import json
 import plotly.graph_objects as go
 import recommendation
 import pandas as pd
