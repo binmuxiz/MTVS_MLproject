@@ -32,7 +32,6 @@ python-dateutil==2.9.0.post0
 python-mecab-ko==1.3.7
 python-mecab-ko-dic==2.1.1.post2
 pytz==2025.2
-pywin32==308
 referencing==0.36.2
 requests==2.32.3
 rpds-py==0.24.0
@@ -52,5 +51,3 @@ watchdog==6.0.0
 wheel==0.45.1
 xgboost==3.0.0
 xyzservices==2025.1.0
-plotly
-xgboost
