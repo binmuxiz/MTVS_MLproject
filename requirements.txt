@@ -52,3 +52,5 @@ watchdog==6.0.0
 wheel==0.45.1
 xgboost==3.0.0
 xyzservices==2025.1.0
+plotly
+xgboost
